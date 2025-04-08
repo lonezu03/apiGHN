@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHTK\\apiGHTK.csproj": {}
+    "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK\\apiGHTK.csproj": {}
   },
   "projects": {
-    "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHTK.ServiceDefaults\\apiGHTK.ServiceDefaults.csproj": {
+    "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK.ServiceDefaults\\apiGHTK.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHTK.ServiceDefaults\\apiGHTK.ServiceDefaults.csproj",
+        "projectUniqueName": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK.ServiceDefaults\\apiGHTK.ServiceDefaults.csproj",
         "projectName": "apiGHTK.ServiceDefaults",
-        "projectPath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHTK.ServiceDefaults\\apiGHTK.ServiceDefaults.csproj",
+        "projectPath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK.ServiceDefaults\\apiGHTK.ServiceDefaults.csproj",
         "packagesPath": "C:\\Users\\anime\\.nuget\\packages\\",
-        "outputPath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHTK.ServiceDefaults\\obj\\",
+        "outputPath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK.ServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -135,14 +135,14 @@
         }
       }
     },
-    "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHTK\\apiGHTK.csproj": {
+    "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK\\apiGHTK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHTK\\apiGHTK.csproj",
+        "projectUniqueName": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK\\apiGHTK.csproj",
         "projectName": "apiGHTK",
-        "projectPath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHTK\\apiGHTK.csproj",
+        "projectPath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK\\apiGHTK.csproj",
         "packagesPath": "C:\\Users\\anime\\.nuget\\packages\\",
-        "outputPath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHTK\\obj\\",
+        "outputPath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -164,8 +164,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHTK.ServiceDefaults\\apiGHTK.ServiceDefaults.csproj": {
-                "projectPath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHTK.ServiceDefaults\\apiGHTK.ServiceDefaults.csproj"
+              "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK.ServiceDefaults\\apiGHTK.ServiceDefaults.csproj": {
+                "projectPath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK.ServiceDefaults\\apiGHTK.ServiceDefaults.csproj"
               }
             }
           }

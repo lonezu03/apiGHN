@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cYfiuw+Y5JY=",
+  "dgSpecHash": "3FGpL7yaYDA=",
   "success": true,
-  "projectFilePath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHTK.ServiceDefaults\\apiGHTK.ServiceDefaults.csproj",
+  "projectFilePath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK.ServiceDefaults\\apiGHTK.ServiceDefaults.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anime\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\anime\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

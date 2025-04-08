@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i4oQs/p7lro=",
+  "dgSpecHash": "kEn9sAieo48=",
   "success": true,
-  "projectFilePath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHTK.AppHost\\apiGHTK.AppHost.csproj",
+  "projectFilePath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK.AppHost\\apiGHTK.AppHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anime\\.nuget\\packages\\aspire.hosting\\8.1.0\\aspire.hosting.8.1.0.nupkg.sha512",
     "C:\\Users\\anime\\.nuget\\packages\\aspire.hosting.apphost\\8.1.0\\aspire.hosting.apphost.8.1.0.nupkg.sha512",

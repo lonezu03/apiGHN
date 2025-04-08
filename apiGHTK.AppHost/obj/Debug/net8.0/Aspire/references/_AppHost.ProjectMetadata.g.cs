@@ -8,5 +8,5 @@ namespace Projects;
 public class apiGHTK_AppHost
 {
     private apiGHTK_AppHost() { }
-    public static string ProjectPath => """F:\Projec\C#\giaohangtietkiem\apiGHTK\apiGHTK.AppHost""";
+    public static string ProjectPath => """F:\Projec\C#\giaohangtietkiem\apiGHTK\apiGHN\apiGHTK.AppHost""";
 }
