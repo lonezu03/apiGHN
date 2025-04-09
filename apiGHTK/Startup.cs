@@ -24,7 +24,8 @@ public class Startup
         services.AddCors(options =>
         {
             options.AddPolicy("AllowAll", builder =>
-            builder.WithOrigins("https://nhom11sangt4ca1user.netlify.app", "https://nhom11sangt4ca1admin.netlify.app")
+            builder.WithOrigins("https://nhom11sangt4ca1user.netlify.app", "https://nhom11sangt4ca1admin.netlify.app", "http://localhost:5173",
+            "http://localhost:3000")
                        .AllowAnyMethod()
                        .AllowAnyHeader());
         });
