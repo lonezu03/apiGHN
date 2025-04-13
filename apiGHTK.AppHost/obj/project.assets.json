@@ -7451,23 +7451,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Duong\\.nuget\\packages\\": {},
+    "C:\\Users\\anime\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Duong\\OneDrive\\Desktop\\ghtk\\apiGHN\\apiGHTK.AppHost\\apiGHTK.AppHost.csproj",
+      "projectUniqueName": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK.AppHost\\apiGHTK.AppHost.csproj",
       "projectName": "apiGHTK.AppHost",
-      "projectPath": "C:\\Users\\Duong\\OneDrive\\Desktop\\ghtk\\apiGHN\\apiGHTK.AppHost\\apiGHTK.AppHost.csproj",
-      "packagesPath": "C:\\Users\\Duong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Duong\\OneDrive\\Desktop\\ghtk\\apiGHN\\apiGHTK.AppHost\\obj\\",
+      "projectPath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK.AppHost\\apiGHTK.AppHost.csproj",
+      "packagesPath": "C:\\Users\\anime\\.nuget\\packages\\",
+      "outputPath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK.AppHost\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Duong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anime\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7476,14 +7476,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Duong\\OneDrive\\Desktop\\ghtk\\apiGHN\\apiGHTK\\apiGHTK.csproj": {
-              "projectPath": "C:\\Users\\Duong\\OneDrive\\Desktop\\ghtk\\apiGHN\\apiGHTK\\apiGHTK.csproj"
+            "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK\\apiGHTK.csproj": {
+              "projectPath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK\\apiGHTK.csproj"
             }
           }
         }

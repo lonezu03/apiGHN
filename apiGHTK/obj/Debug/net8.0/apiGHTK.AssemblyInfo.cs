@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("apiGHTK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac6283ea57fe734b4a0ff4719871ed9447d2f181")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7eac557bc4ee6a6fafe60ad2aca1c215cad279a")]
 [assembly: System.Reflection.AssemblyProductAttribute("apiGHTK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("apiGHTK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
